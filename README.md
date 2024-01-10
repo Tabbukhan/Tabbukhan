@@ -29,6 +29,6 @@ I'm always open to collaboration, learning from others, and contributing to exci
 
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/tabasum-khan)
-- [Email](mailto:you@example.com)
+- [Email](tabasumkhanmca@gmail.com)
 
 Happy coding! 🚀
