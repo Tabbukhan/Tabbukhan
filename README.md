@@ -7,11 +7,12 @@ Aspiring DevOps Engineer | Continuous Learner | Automation Enthusiast
 ## 🔧 Technologies & Tools
 
 - **CI/CD:** Jenkins, GitHub Actions
-- **Containerization:** Docker
-- **Cloud Services:** Amazon Web Services (AWS)
+- **Containerization:** Docker, Kubernetes
+- **Cloud Services:** Amazon Web Services (AWS), Azure
 - **Web Servers:** Nginx, Apache
 - **Code Quality:** SonarQube
 - **Version Control:** Git, GitHub
+- **Analysis Tool:** Semgrep
 
 ## 🌱 Current Learning Focus
 
@@ -31,4 +32,4 @@ I'm always open to collaboration, learning from others, and contributing to exci
 - [LinkedIn](https://www.linkedin.com/in/tabasum-khan)
 - [Email](tabasumkhanmca@gmail.com)
 
-Happy coding! 🚀
+Happy learning! 🚀
