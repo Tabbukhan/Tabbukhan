@@ -1,1 +1,45 @@
+1. Continuous Integration Pipeline for a Web Application
 
+Description:
+
+   - Created and implemented a robust CI/CD pipeline for a web application using Jenkins.
+   - Utilized Docker for containerization, ensuring consistent deployment across different environments.
+   - Configured Nginx as a reverse proxy to efficiently handle web server tasks and load balancing.
+   - Integrated SonarQube for continuous code quality checks and Semgrep for real-time security analysis.
+    
+Key Contributions:
+
+    - Automated the entire software development lifecycle, from code commits to production deployment.
+    - Streamlined the testing process, enabling quick identification and resolution of issues.
+    - Improved code quality and security by integrating SonarQube and Semgrep into the pipeline.
+    - GitHub Repository: Link to the GitHub repository
+
+2. Security Scanning with Semgrep
+
+Description:
+
+     - Developed a project focused on continuous security scanning using Semgrep.
+     - Integrated Semgrep into the CI/CD pipeline, ensuring ongoing security analysis during development.
+     - Demonstrated the effectiveness of Semgrep in identifying and addressing potential security vulnerabilities.
+
+Key Contributions:
+
+      - Implemented Semgrep rules to cover various security aspects, enhancing the overall codebase security.
+      - Integrated Semgrep seamlessly into the existing development workflow.
+      - Provided documentation and training to the team on interpreting and addressing Semgrep findings.
+      - GitHub Repository: Link to the GitHub repository
+
+3. SonarQube Integration for Code Quality
+
+Description:
+
+      - Integrated SonarQube into the project's CI/CD pipeline to enforce and maintain code quality standards.
+      - Configured SonarQube rules for static code analysis, identifying and addressing code smells and bugs.
+      - Enhanced the development process by enabling continuous monitoring of code quality metrics.
+
+Key Contributions:
+
+      - Improved overall code quality by addressing issues identified by SonarQube.
+      - Collaborated with the development team to establish best practices and coding standards.
+      - Automated the generation of code quality reports for regular review and improvement.
+      - GitHub Repository: Link to the GitHub repository
