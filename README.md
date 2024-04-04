@@ -6,13 +6,14 @@ Aspiring DevOps Engineer | Continuous Learner | Automation Enthusiast
 
 ## 🔧 Technologies & Tools
 
-- **CI/CD:** Jenkins, GitHub Actions
+- **CI/CD:** Jenkins, GitHub Actions, gitlab CI
 - **Containerization:** Docker, Kubernetes
 - **Cloud Services:** Amazon Web Services (AWS), Azure
 - **Web Servers:** Nginx, Apache
 - **Code Quality:** SonarQube
 - **Version Control:** Git, GitHub
 - **Analysis Tool:** Semgrep
+- **Security Scanning Tools:** GitGuardian, TruffleHog
 
 ## 🌱 Current Learning Focus
 
