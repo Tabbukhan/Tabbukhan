@@ -9,7 +9,7 @@ Aspiring DevOps Engineer | Continuous Learner | Automation Enthusiast
 - **CI/CD:** Jenkins, GitHub Actions, gitlab CI
 - **Containerization:** Docker, Kubernetes
 - **Cloud Services:** Amazon Web Services (AWS), Azure
-- **Web Servers:** Nginx, Apache
+- **Web Servers:** Nginx
 - **Code Quality:** SonarQube
 - **Version Control:** Git, GitHub
 - **Analysis Tool:** Semgrep
