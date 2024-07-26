@@ -30,7 +30,7 @@ I'm currently focusing on mastering the following areas:
 I'm always open to collaboration, learning from others, and contributing to exciting projects. Feel free to reach out, whether it's for advice, collaboration, or just to chat about the latest trends in DevOps.
 
 📫 How to reach me:
-- [LinkedIn](#https://www.linkedin.com/in/tabasum-khan)
-- [Email](#tabasumkhanmca@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/tabasum-khan)
+- [Email](tabasumkhanmca@gmail.com)
 
 Happy learning! 🚀
