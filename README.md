@@ -8,12 +8,13 @@ Aspiring DevOps Engineer | Continuous Learner | Automation Enthusiast
 
 - **CI/CD:** Jenkins, GitHub Actions, gitlab CI
 - **Containerization:** Docker, Kubernetes
-- **Cloud Services:** Amazon Web Services (AWS), Azure
+- **Cloud Services:** Amazon Web Services (AWS), Azure, Digital Ocean
 - **Web Servers:** Nginx
-- **Code Quality:** SonarQube
-- **Version Control:** Git, GitHub
+- **Code Quality:** SonarQube, OWASP
+- **Version Control:** GitHub, GitLab, BitBucket
 - **Analysis Tool:** Semgrep
 - **Security Scanning Tools:** GitGuardian, TruffleHog
+- **Loggind And Monitorng:** Prometheus, ELK Stack
 
 ## 🌱 Current Learning Focus
 
