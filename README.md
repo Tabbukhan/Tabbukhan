@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I'm a **DevOps Engineer with 2 years of experience** in building secure, automated, and scalable infrastructure.  
+I'm a **Passionate DevOps Engineer** skilled in building secure, scalable, and automated infrastructure solutions.  
 This space highlights my **CI/CD pipelines**, **infrastructure automation**, and **cloud-based deployments**.  
 I’m passionate about blending **automation, security, and cloud technologies** to deliver reliable solutions.
 
